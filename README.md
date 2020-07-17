@@ -17,3 +17,34 @@ Please Download [Click Her ](https://pngimg.com/uploads/github/github_PNG20.png)
 
 This is **BOld_TEXT** 
 THis is *Italic_Stylr*
+THis is ***Both Bold and ITalic***
+
+``` python 
+
+def msg():
+  return "Hello This is Guru"
+msg()
+
+```
+``` c
+#include <stdio.h>
+void main()
+{
+  printf("Hello World ");
+  int a = 10 , b= 20;
+  print("%d %d",a,b);
+}
+```
+
+Go to Google and Search for Github emoji CheatSheet
+ then clic on first github link
+ :blush: :blush: :blush: :blush: 
+ 
+ Unorder lists
+ - Fruits
+    - Mango
+    - Apple
+ - Flowers
+    - Rose
+      - Red
+ - Vegetable
